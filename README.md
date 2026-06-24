@@ -2,7 +2,7 @@
 
 📞 060 679 5254  
 📧 mvuyisilindo@gmail.com  
-🔗 [GitHub Profile](https://github.com/wil-it-2026/cv-submission-MaveeCPUT)
+🔗 [GitHub Profile](https://github.com/MvuyisiCPUT)
 
 ---
 
@@ -70,7 +70,7 @@ Principal
 
 🎥 **Mock Interview**
 
-<video width="100%" controls>
+<video width="480" controls>
   <source src="/MvuyisiCPUT.github.io/mock-interview-video.mp4" type="video/mp4">
   Your browser does not support the video tag.
 </video>
