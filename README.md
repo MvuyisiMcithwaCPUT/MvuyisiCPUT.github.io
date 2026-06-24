@@ -68,7 +68,11 @@ Generating ideas and turning them into working systems fuels my creativity and p
 Principal  
 📞 011 680 2453
 
-🎥 [Watch Mock Interview](./mock-interview-video.mp4)
+🎥 **Mock Interview**
 
+<video width="100%" controls>
+  <source src="/MvuyisiCPUT.github.io/mock-interview-video.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
 ### 📄 Reflection
 👉 **[View My Reflection](./pfp-reflection.pdf)**
