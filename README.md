@@ -70,7 +70,7 @@ Principal
 
 🎥 **Mock Interview**
 
-<video width="480" controls>
+<video controls style="width: 100%; height: 300px; max-height: 400px;">
   <source src="/MvuyisiCPUT.github.io/mock-interview-video.mp4" type="video/mp4">
   Your browser does not support the video tag.
 </video>
