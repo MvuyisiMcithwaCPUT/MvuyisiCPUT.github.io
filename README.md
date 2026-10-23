@@ -74,5 +74,8 @@ Principal
   <source src="/MvuyisiCPUT.github.io/mock-interview-video.mp4" type="video/mp4">
   Your browser does not support the video tag.
 </video>
-### 📄 Reflection
+### 📄 Reflection 
 👉 **[View My Reflection](./pfp-reflection.pdf)**
+
+## 📋 Agile Team Charter
+👉 **[View My Agile Team Charter](./agile-team-charter.md)**
