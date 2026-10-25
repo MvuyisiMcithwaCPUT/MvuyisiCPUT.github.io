@@ -1,12 +1,12 @@
 # I'm Mvuyisi Mcithwa
 
-📞 060 679 5254  
-📧 mvuyisilindo@gmail.com  
-🔗 [GitHub Profile](https://github.com/MvuyisiCPUT)
+Phone number: 060 679 5254  
+Email:  mvuyisilindo@gmail.com  
+GitHub profile link:[GitHub Profile](https://github.com/MvuyisiCPUT)
 
 ---
 
-## 🎓 Education
+##  Education
 
 **High School**  
 - Sir John Adamson High School  
@@ -18,9 +18,9 @@
 
 ---
 
-## 💻 Technical Skills
+## Technical Skills
 
-### 🧠 Programming Languages
+###  Programming Languages
 - **Java** (OOP, Data Structures & Algorithms, Spring Boot)  
 - **SQL** (Queries, Joins, Normalization)  
 - Python  
@@ -29,16 +29,16 @@
 - CSS  
 - JSON  
 
-### 🛠️ Tools & Platforms
+###  Tools & Platforms
 - NetBeans  
 - IntelliJ  
 - Figma  
 
 ---
 
-## 🚀 Projects
+##  Projects
 
-### 📚 My Learning (Personal Project)
+###  My Learning (Personal Project)
 - Built a full-stack web application  
 - Designed UI using Figma  
 - Backend developed with Java (API & logic)  
@@ -49,7 +49,7 @@
 
 ---
 
-### 💰 Expense Tracker (Group Project)
+###  Expense Tracker (Group Project)
 - Developed a personal finance tracking tool  
 - Java backend with SQL database  
 - Simple web interface using HTML, CSS, and JavaScript  
@@ -57,25 +57,25 @@
 
 ---
 
-## 🌱 Interests
+##  Interests
 I enjoy building practical software solutions for real-world problems.  
 Generating ideas and turning them into working systems fuels my creativity and productivity.
 
 ---
 
-## 📌 References
+##  References
 **Mr. S.W Meyers**  
 Principal  
-📞 011 680 2453
+Phone: 011 680 2453
 
-🎥 **Mock Interview**
+ **Mock Interview**
 
 <video controls style="width: 100%; height: 290px; max-height: 400px;">
   <source src="/MvuyisiCPUT.github.io/mock-interview-video.mp4" type="video/mp4">
   Your browser does not support the video tag.
 </video>
 ### 📄 Reflection 
-👉 **[View My Reflection](./pfp-reflection.pdf)**
+ **[View My Reflection](./pfp-reflection.pdf)**
 
 # Agile Project Portfolio
 
@@ -113,7 +113,7 @@ to get work deliverd. Each section
 below opens with the evidence and closes with my reflection on it.
 
 
-## 📋 Agile Team Charter
+##  Agile Team Charter
 The charter is the agreement our GoShuttle team made at the start of the project. 
 It sets out our purpose, roles, ways of working and rules, so that we could resolve differences and deliver our work.
-👉 **[View My Agile Team Charter](./agile-team-charter.md)**
+ **[View My Agile Team Charter](./agile-team-charter.md)**
