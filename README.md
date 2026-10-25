@@ -112,5 +112,8 @@ at the start of the project helps to resolve conflicts or defferences that may c
 to get work deliverd. Each section
 below opens with the evidence and closes with my reflection on it.
 
+
 ## 📋 Agile Team Charter
+The charter is the agreement our GoShuttle team made at the start of the project. 
+It sets out our purpose, roles, ways of working and rules, so that we could resolve differences and deliver our work.
 👉 **[View My Agile Team Charter](./agile-team-charter.md)**
