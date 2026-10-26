@@ -120,4 +120,4 @@ It sets out our purpose, roles, ways of working and rules, so that we could reso
 ## User Stories and Tasks
  
 A user story is a short description of a feature written from the end user's point of view. For GoShuttle, our user stories describe what students and drivers need from the app, and they became the work our team had to complete in the project. Each story follows the format As a [user], I want [feature], so that [benefit]. The stories below cover two types of user: the student and the driver.
- **[View My User Stories and Tasks](./User stories.md)**
+ **[View My User Stories and Tasks](./user-stories.md)**
