@@ -4,11 +4,7 @@
 
 ---
 
-## 🎯 Evidence
-
-### Introduction
-
-A user story is a short description of a feature written from the end user's point of view. For GoShuttle, our user stories describe what students and drivers need from the app, and they became the work our team had to complete in the project. Each story follows the format **As a [user], I want [feature], so that [benefit]**. The stories below cover two types of user: the student and the driver.
+##  Evidence
 
 ---
 
@@ -16,28 +12,30 @@ A user story is a short description of a feature written from the end user's poi
 
 | ID | As a... | I want... | So that... |
 | --- | --- | --- | --- |
-| US1 | Student | An app | I can know bus schedules, track the bus and make payments |
-| US2 | Student | To view the bus routes | I can see which route is best for me to travel on |
-| US3 | Student | To make payments on the app | I can renew my pass |
-| US4 | Driver | An app | I can connect my phone to the GPS so that a student can track the bus I am driving |
-| US5 | Student | An app | I can see the bus stops in each area |
+| US1 | Student | An app | I can know bus schedules |
+| US2 | Student | An app | I can track the bus |
+| US3 | Student | To view the bus routes | I can see which route is best for me to travel on |
+| US4 | Student | To make payments on the app | I can renew my pass |
+| US5 | Driver | An app | I can connect my phone to the GPS so that a student can track the bus I am driving |
+| US6 | Student | An app | I can see the bus stops in each area |
 
 ---
 
 ### Tasks
 
-> ✏️ *The brief asks for the stories to be broken down into tasks. Add your team's tasks for each story here, for example:*
 
 | Story | Task | Owner |
 | --- | --- | --- |
-| US2 | [e.g. Research and map the pilot routes] | [name] |
-| US3 | [task] | [name] |
+| US1 | Add the body of the page where a user can see the bus schedules of the route they chose and the times |  Sinethemba Mkhoma |
+| US2 | Finalize designing the map show live the travelling time of the buses chosen by the user | Mvuyisi Mcithwa |
+| US3 | Add the feature where the user can choose which route they want to see the bus schedules  | Samukelisiwe Maphumulo |
+| US4 | Create cards showing the details of the students pass | Kwanda Mbayise |
+| US5 | Create card where the bus driver can connect their phone | Mvuyisi Mcithwa |
+| US6 | On the bus schedules add bus stops | Sinethemba Mkhoma |
 
 ---
 
-## 💭 Reflection
-
-> ✏️ *Write this in your own words and delete the brackets and this note before you submit.*
+##  Reflection
 
 ### What I learned about user stories
 Before this, I thought [your earlier view]. Writing the stories showed me that
