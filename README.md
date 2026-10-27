@@ -269,7 +269,19 @@ User stories describe what a feature must do from the end user’s point of view
 
 ### 💭 Reflection
 
-> ✏️ *Replace this with your own reflection. Prompts to answer:* What did writing from the user’s point of view teach me? Why did the driver’s story matter to the students’ ability to track the bus? Which story was too big (US1 covers three needs), and how would I split it next time?
+Writing the GoShuttle stories taught me that a user story describes what a person needs and why, from their point of view, and not how the feature will be built. As a student I want an app so that I can know bus schedules and track the bus
+
+Our stories covered two users, the student and the driver. The driver’s story (US4) mattered because students could only track the bus if the driver’s phone was connected to the GPS, so the students’ story depended on the driver’s. This showed me that when developing a sysytem to solve one users problem can bring other user
+
+On 21 July the team turned the features from our MVP week into 14 user stories. Some were still too broad, so we split the “Book a trip” story into three smaller cards, which made progress easier to see on Trello. What I learnt from this is that user stories should be short and specific.
+
+I led the MoSCoW prioritisation of the stories. The feedback we collected from students , about pricing and trust, decided which stories became Must Have, and the six highest-value stories made up the first design sprint. Leading these discussions gave me valuable experience in gathering and prioritising user needs for the system.
+
+What worked well for us is that we were able to brainstorm the right questions to ask our users what they needed from the system in odder to formulate these user stories. What was challenging was to get the users to ask these questions
+
+Next time for better understanding I would change the formula of writing this user stories for example I would write “I want to track the bus” instead of “I want an app”, split US1 into smaller stories, or add tasks to each story because the more the user story is understable the better the changes of producing a system with bettter functionality that satisfiers the users.
+
+The stories link to the rest of my portfolio because they became the cards in our product backlog and sprint backlog, for example As a: Student,I want : An app,So that: I can track the bus.The card must display where the bus is coming from and where its going.
 
 ---
 
