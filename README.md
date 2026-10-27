@@ -305,7 +305,15 @@ The ordered list of everything the product might need. We prioritised it with Mo
 
 ### 💭 Reflection
 
-> ✏️ *Replace this with your own reflection. Prompts to answer:* How did we decide what went at the top of the backlog? Which item moved because of student feedback (pricing, trust, NSFAS)? What did I learn from leading the MoSCoW discussion? What would I prioritise differently?
+Our backlog was an ordered list of everything GoShuttle might need, kept on our Trello board. On 21 July the team turned the features from our MVP week into fourteen user stories. I led the discussion where we prioritised them using MoSCoW. By the end of the day the Must Have column held the six highest-value stories for our first design sprint. We also found that some stories were too broad, so we split the “Book a trip” story into three cards (select route and time, confirm fare, and receive confirmation) so that progress would be easier to see.
+
+The order of the backlog came from student feedback. On campus, students asked how our pricing compared to taxis and whether a pass could be paid with NSFAS funds, and several were unsure about trusting a new service. Those concerns directly shaped which stories we marked Must Have. They are why the backlog includes items such as the Payments page and NSFAS allowance direction. This was an example of feedback feeding the backlog.
+
+The backlog also showed our progress. The research cards, such as Interview Questions, Survey Design, Problem Definition and Solution Proposal, were moved to Done, while the remaining items, from the Stops and Routes page in Sprint 8 to NSFAS allowance direction in Sprint 12, stayed in the backlog for later sprints.
+
+Leading the prioritisation taught me to put aside what I thought the users needed and to put the users’ preferences first.
+
+Next time I would add acceptance criteria to each card, because some cards had work that was not properly complete. Acceptance criteria would help us go back to the cards that did not meet them.
 
 ---
 
@@ -328,7 +336,17 @@ The work the team committed to in each sprint, tracked card by card on Trello.
 
 ### 💭 Reflection
 
-> ✏️ *Replace this with your own reflection. Prompts to answer:* How did the sprint backlog help us see progress? Which card or sprint taught me the most (for example the database design sprint)? Where did we fall behind and how did we respond? What would I do differently when planning a sprint?
+Our sprint backlog turned the product backlog into the work we committed to in each sprint. On Trello we organised it into four lists: Wireframe Design, Database Design, User Interface and Finalizing Pages. Each card had a date a checklist and the members assigned to it so it was clear who was responsible for what.
+
+The board helped us see our progress. On 24 July we moved the completed wireframe cards to Done and added five cards for the next phase and on 31 July all the core interface cards were moved to Done. Having Trello open while we coded showed us which parts of the flow were still missing so we didn’t over-polish one screen while others lagged behind.
+
+The sprint that taught me the most was Database Design. In the Database Design sprint we drew the entity relationship diagram. Defined the relationships between the entities and I built the Bus, Driver and LiveTrip tables. I learned that planning the data before building the screens is essential. It helps avoid problems and makes development smoother.
+
+Our plans also changed during the sprints and we responded instead of waiting. Our fare logic was unclear so we hard-coded an estimate. Labelled it "illustrative”. A real-time map was out of scope for the prototype so we used a static map image. In August we moved from Spring Boot to Supabase because GitHub Pages cannot run a Java backend. This taught me that when planning for a sprint you must be ready and open to changes that may come.
+
+One thing we could have done better is keeping the board up to date. Some of our cards are marked complete. Their checklists still show 0 of 3 or 0 of 4. This happened because we didn’t always update the board in time. It showed me that even if a task is done if the checklist is not finished it can give a sense of progress.
+
+Next time I would update checklists daily or plan sprints around who is available for the week.
 
 ---
 
@@ -591,7 +609,17 @@ Monthly progress report and activity register: the move from Spring Boot to Supa
 
 ### 💭 Reflection
 
-> ✏️ *Replace this with your own reflection. Prompts to answer:* What did keeping a logbook change about how I worked? Which entry shows us adapting the plan (the 17 July decision, the move to Supabase)? What was my own part in these weeks? How did the logbook link to Trello and to the retrospectives in the charter?
+Keeping the Agile logbook meant writing down each day what we planned what actually happened, our blockers and decisions and a short reflection. From 4 July to the end of August the logbook recorded our work on the business model and architecture the launch of the MVP and campus activation the set‑up of Trello and wireframes the coded interface and the switch to a Supabase backend. Planning the day was what kept me motivated and helped me stay productive.
+
+The logbook shows that we change the plan instead of just following it. On 17 July we were behind on two of our five success measures with 41 pre‑registrations of 50 and 35 % willingness to pay instead of 40 %. So we moved the TikTok and Instagram video forward. On 29 and 30 July we hard‑coded an "fare estimate and used a static map image so the prototype could finish and be tested. In August we moved from Spring Boot to Supabase because GitHub Pages cannot run a Java backend. Changing a plan taught me that there is no risk in applying plans as long as I am well informed.
+
+My own part in these weeks was drafting the pre‑registration Google Form on 14 July leading the MoSCoW prioritisation on 21 July and in August building the Bus, Driver and LiveTrip tables, DriverTrack.vue and TrackView.vue. That work taught me the importance of data structure and the value of early testing.
+
+The logbook was linked to our Trello board and, to the charter. Cards were moved to Done on Trello at the end of each sprint. Recorded in the logbook and the "Blockers / decisions" entry gave us a place to raise problems early which was one of our working agreements. This worked well because it helped us when we could not access WhatsApp groups.
+
+It shows that reviewing work while it is still happening helps you catch problems early before they become issues. When we only noticed the WhatsApp group access delay and the weak end‑of‑day sync afterward it was already too late to fix them. Checking progress often during the week would have let us adjust the plan in time instead of only learning the lesson after the damage was done.
+
+Next time I would write the logbook at the end of each day instead of in batches because it would help us notice blockers and coordination problems while we still have time to fix them.
 
 ---
 
@@ -601,4 +629,12 @@ This section connects the five artefacts into one story of how our team worked.
 
 ### 💭 Reflection
 
-> ✏️ *Replace this with your own reflection. Prompts to answer:* How do the charter, user stories, backlogs and logbook link together? What did I learn about Agile teamwork overall, and what will I carry into my next project? Where did we work in an Agile way, rather than only saying we did?
+The five items in this portfolio describe one process. The charter set out how team would work, including the roles, the Monday and Wednesday stand‑ups, the Friday meetings and the agreement to raise blockers early. The user stories described what students and drivers needed and became the cards in the product backlog. Team prioritized that backlog with MoSCoW and the sprint backlog on Trello turned it into the work for each sprint. The logbook then recorded what actually happened each day. These items depended on each other: the charter created the rules the user stories and backlog turned those rules into work. The logbook showed whether team actually followed the plan and where team needed to adjust.
+
+Overall working on GoShuttle taught me that Agile teamwork works best when team agrees the rules early and keeps checking progress instead of working in isolation. Planning together in the stand‑ups and Friday meetings helped team avoid clashing tasks. Kept everyone accountable, which is something team would not have achieved by working alone.
+
+There were places where team worked in an Agile way instead of only saying team did. On 17 July team was behind on two of five success measures so team brought the media video forward instead of waiting for the original plan. This showed me that responding to feedback and changing the plan quickly is more valuable than sticking to a schedule that is no longer working.
+
+There were also places where team fell short. Work was not always evenly spread because some members were unavailable, on some days, which created uncertainty when assigning tasks and sometimes left work for fewer people. This taught me that raising blockers early is not enough if team does not also check availability properly when planning the week.
+
+In my project I will review the team agreement every week and write the logbook at the end of each day because these two habits will help team notice problems earlier and keep the whole team aligned while there is still time to fix them.
