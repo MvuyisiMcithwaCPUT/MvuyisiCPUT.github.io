@@ -346,7 +346,7 @@ Our plans also changed during the sprints and we responded instead of waiting. O
 
 One thing we could have done better is keeping the board up to date. Some of our cards are marked complete. Their checklists still show 0 of 3 or 0 of 4. This happened because we didn’t always update the board in time. It showed me that even if a task is done if the checklist is not finished it can give a sense of progress.
 
-Next time I would update checklists daily or plan sprints around who is available for the week.
+Next time I would update checklists daily or plan sprints around who is available all week.
 
 ---
 
