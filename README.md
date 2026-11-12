@@ -360,7 +360,7 @@ A running record of daily plans, what actually happened, blockers and decisions,
 
 Business Model Canvas, logo direction, solution architecture and the HTML redesign conversion.
 
-<details>
+<details markdown="1">
 <summary>Read the full logbook</summary>
 
 #### Day 1 — Saturday, 04 July
