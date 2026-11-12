@@ -1,0 +1,14 @@
+---
+---
+
+@import "{{ site.theme }}";
+
+summary {
+  display: list-item;
+  cursor: pointer;
+  font-weight: 600;
+}
+
+details > summary {
+  margin-bottom: 0.5rem;
+}
