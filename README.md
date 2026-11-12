@@ -417,7 +417,7 @@ Business Model Canvas, logo direction, solution architecture and the HTML redesi
 
 WhatsApp flyer, Google Form and an info table at the Bellville campus.
 
-<details>
+<details markdown="1">
 <summary>Read the full logbook</summary>
 
 #### Day 1 — Monday, 14 July
@@ -478,7 +478,7 @@ Across this stretch, the biggest lessons were about timing and trust rather than
 
 Trello setup, 14 user stories prioritised with MoSCoW, and Figma wireframes.
 
-<details>
+<details markdown="1">
 <summary>Read the full logbook</summary>
 
 #### Day 1 — Tuesday, 21 July
@@ -535,7 +535,7 @@ Trello setup, 14 user stories prioritised with MoSCoW, and Figma wireframes.
 
 A clickable, mobile-first prototype of the home, booking and tracking screens.
 
-<details>
+<details markdown="1">
 <summary>Read the full logbook</summary>
 
 #### Day 1 — Tuesday, 28 July
@@ -592,7 +592,7 @@ A clickable, mobile-first prototype of the home, booking and tracking screens.
 
 Monthly progress report and activity register: the move from Spring Boot to Supabase, the core tables, student registration and live tracking.
 
-<details>
+<details markdown="1">
 <summary>Read the full monthly report and register</summary>
 
 ![August 2026 monthly report, page 1](images/august-report-1.jpg)
